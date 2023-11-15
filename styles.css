@@ -222,6 +222,12 @@ footer {
 		padding-left: 0px;
 	}
 	
+	.big-info-text {
+		font-size: 20px;
+		color: rgb(238, 238, 238);
+		line-height: 130%;
+	}
+	
 	.about-bio-and-image {
 		flex-direction: column;
 	}

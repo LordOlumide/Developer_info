@@ -259,6 +259,10 @@ footer {
 		width: 42%;
 	}
 
+	.skills-intro {
+		padding: 0px;
+	}
+
 	.skill-text {
 		font-size: 1.2rem;
 	}

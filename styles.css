@@ -3,8 +3,8 @@ body {
 	/* font-family: 'Noto Serif', serif; */
 	font-family: 'Hind Siliguri', sans-serif;
 	background-image: url('./assets/images/sky-background.jpg');
-	background-size: cover;
-	background-position: center;
+	background-size: 100% 120%;
+	background-position: top;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
